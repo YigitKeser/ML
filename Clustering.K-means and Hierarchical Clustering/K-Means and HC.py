@@ -52,3 +52,4 @@ plt.show()
 import scipy.cluster.hierarchy as sch
 dendrogram = sch.dendrogram(sch.linkage(X,method='ward'))
 plt.show()
+
